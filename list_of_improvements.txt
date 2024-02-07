@@ -1,0 +1,3 @@
+Architecture
+Separate Database Entity and Response Entity
+Database access method is not asynchronous (Tasks)
