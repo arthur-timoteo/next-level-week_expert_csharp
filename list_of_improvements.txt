@@ -1,0 +1,6 @@
+Architecture
+Separate Database Entity and Response Entity
+Database access method is not asynchronous (Tasks)
+Error message in the user's localization language
+Validate Parameters Provided in Requisitions
+Validate user
