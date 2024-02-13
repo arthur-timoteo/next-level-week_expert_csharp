@@ -1,7 +1,7 @@
 <h1 align="center">NLW Expert - C#</h1>
 
 <p align="center">
-  <img alt="NLW Expert - C#" src=".docs/banner_event.png" width="100%">
+  <img alt="NLW Expert - C#" src=".github/banner_event.png" width="100%">
 </p>
 
 ## Project
@@ -27,7 +27,7 @@ REST API for managing an auction.
 ## Database
 
 <p align="center">
-  <img alt="Database" src=".docs/MER.png" width="100%">
+  <img alt="Database" src=".github/MER.png" width="100%">
 </p>
 
 ## How to run
